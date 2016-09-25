@@ -9,6 +9,8 @@ This repo includes :
 - A screener for different symbols and one time unit on the last x bars (`ScreenShot.png`)
 - A screener for different time units and one symbol on the last x bars (`ScreenShot2.png`)
 
-## Screener 1
-
-## Screener 2
+For the two screeners, if the market showed :
+- *both signs of strengh and weakness* at this bar, for this period and for this symbol the screener displays a **blue diamond**
+- *one or more signs of strengh* at this bar, for this period and for this symbol the screener displays a **green up-arrow**
+- *one or more signs of weakness* at this bar, for this period and for this symbol the screener displays a **red down-arrow**
+- *no signs of strengh or weakness* at this bar, for this period and for this symbol the screener displays a **gray circle**
